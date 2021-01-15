@@ -5,7 +5,7 @@
 [![Release Preview Build Status](https://ci.centos.org/buildStatus/icon?subject=release-preview&job=devtools-che-plugin-registry-release-preview/)](https://ci.centos.org/job/devtools-che-plugin-registry-release-preview/)
 
 # Eclipse Che plugin registry
-
+test
 This repository holds ready-to-use plugins for different languages and technologies.
 
 ## Building and publishing third party VSIX extensions for plugin registry

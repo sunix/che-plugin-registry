@@ -10,7 +10,7 @@ This repository holds ready-to-use plugins for different languages and technolog
 
 ## Building and publishing third party VSIX extensions for plugin registry
 See: https://github.com/redhat-developer/codeready-workspaces/blob/master/devdoc/building/build-vsix-extension.adoc
-
+test
 ## Build registry container image
 
 This repository contains a `build.sh` script at its root that can be used to build the registry:

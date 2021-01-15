@@ -3,7 +3,7 @@
 [![Nightly Build Status](https://ci.centos.org/buildStatus/icon?subject=nightly&job=devtools-che-plugin-registry-nightly/)](https://ci.centos.org/job/devtools-che-plugin-registry-nightly/)
 [![Release Build Status](https://ci.centos.org/buildStatus/icon?subject=release&job=devtools-che-plugin-registry-release/)](https://ci.centos.org/job/devtools-che-plugin-registry-release/)
 [![Release Preview Build Status](https://ci.centos.org/buildStatus/icon?subject=release-preview&job=devtools-che-plugin-registry-release-preview/)](https://ci.centos.org/job/devtools-che-plugin-registry-release-preview/)
-
+test
 # Eclipse Che plugin registry
 test
 This repository holds ready-to-use plugins for different languages and technologies.
